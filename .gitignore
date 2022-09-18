@@ -1,7 +1,3 @@
-# User added
-
-.DS_Store
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -12,6 +8,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+*.DS_Store
 .Python
 build/
 develop-eggs/
