@@ -1,5 +1,5 @@
 # School_District_Analysis
-##### Module 4 OSU BootCamp
+
 
     This overview is a summary of scores across multiple subjects for a group of schools in the area. The study spans both public and charter schools.
 
