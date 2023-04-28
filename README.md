@@ -1,21 +1,21 @@
-# School_District_Analysis
+# School District Analysis
 
+### Tools Used
 
-    This overview is a summary of scores across multiple subjects for a group of schools in the area. The study spans both public and charter schools.
+* Python
+* Pandas
+* OS module
 
-## First Look
+### Summary
 
-    In general the scores do not show positive comprehension of the subjects. The averages for the entire set of Reading Scores come out around 72%, which is national average, but the Math scores are not. Math scores average around 64%. This led to looking into if there is a correlation between the school type, public or charter, and the comprehension of the subjects.
+In this data analysis, Python and the pandas library were utilized to examine student data. The analysis involved importing the data, preparing it by removing missing values and duplicates, and conducting various analyses. The results included average scores, grade-level comparisons, school type comparisons, and student population distribution.
 
-## Diving Deeper
+### Conclusions
 
-    We analyzed the scores using several categories. First looking at grade and by school. We chose one school to sample from and look at reading scores. We found that the averages remained relatively consistent, while the spread tightened. Comparing the public and charter school we found that the scores remained consistent between them, showing that the type of school was not a significant factor in the success of the students.
-    The scores also seemed to increase slightly as the grades level increased but still stayed very close to average.
+1. Performance Variation: The dataset exhibited a wide range of reading and math scores, indicating significant variation in student performance.
+2. Ninth Grade Performance: Ninth-grade students, on average, had slightly lower reading and math scores compared to the overall student population.
+3. Individual Challenges: The presence of a student with the lowest overall reading score highlighted the importance of addressing individual challenges and providing tailored support.
+4. School Type Impact: Charter schools, on average, demonstrated slightly higher reading and math scores compared to district schools, suggesting potential differences in educational approaches or resources.
+5. Student Population Distribution: Analysis of student population revealed varying sizes of student communities across different schools, emphasizing the need for appropriate resource allocation and support planning.
 
-## Limitations
-
-    This study did not analyze the effect of school budget on the success of the students. School size was also not taken into account with this analysis. These factors could be the most important comparisons that were left out. 
-
-## Summary
-
-    Overall no predictions can be made with our analysis but there are several conclusions that can be drawn. Public and Charter schools both maintain the same level of education, regardless of budget differences. The scores increase as students progress showing that attention to class materials improves with age. 50% of the scores are between about 50% and 75%, showing tht there is not a high level of advanced comprehension of the topics. Further study could be conducted for a more rounded summary.
+These conclusions provide valuable insights into student performance trends, challenges, and potential factors that influence academic achievement. They can inform decision-making processes for educators, administrators, and policymakers, enabling the development of strategies to enhance educational outcomes, allocate resources effectively, and address the individual needs of students.
